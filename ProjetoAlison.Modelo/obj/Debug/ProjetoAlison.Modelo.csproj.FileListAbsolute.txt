@@ -1,0 +1,9 @@
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\ProjetoAlison.Modelo.dll.config
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\ProjetoAlison.Modelo.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\ProjetoAlison.Modelo.pdb
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\EntityFramework.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\EntityFramework.xml
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\obj\Debug\ProjetoAlison.Modelo.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Modelo\obj\Debug\ProjetoAlison.Modelo.pdb

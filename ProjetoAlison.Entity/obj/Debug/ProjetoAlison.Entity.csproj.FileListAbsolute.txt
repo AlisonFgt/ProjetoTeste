@@ -1,0 +1,12 @@
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\ProjetoAlison.Entity.dll.config
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\ProjetoAlison.Entity.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\ProjetoAlison.Entity.pdb
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\EntityFramework.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\ProjetoAlison.Modelo.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\ProjetoAlison.Modelo.pdb
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\EntityFramework.xml
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\obj\Debug\ProjetoAlison.Entity.csprojResolveAssemblyReference.cache
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\obj\Debug\ProjetoAlison.Entity.dll
+F:\Desenv\Stefanini\ProjetoAlison\ProjetoAlison.Entity\obj\Debug\ProjetoAlison.Entity.pdb
